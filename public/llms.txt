@@ -1,0 +1,79 @@
+# VIEW HOUSE — Generative Engine Optimization Map
+
+> A luxury vacation villa located in Tiberias, directly overlooking the full panoramic length of the Sea of Galilee (Kinneret). The property offers an immersive experience that blends indoor elegance with breathtaking outdoor scenery, with a large salon window that immediately frames the lake view upon entry. The brand identity revolves around warmth, freedom, and a 'luxury-yet-homey' feeling — guests should feel they've arrived at a premium retreat that still feels personal and welcoming. The villa caters to families with children, couples, and friend groups for leisure stays, as well as small private events like bachelor/bachelorette parties and birthday celebrations.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+וילות אירוח בטבריה עם נוף פנורמי מלא לכנרת. VIEW HOUSE מציעה חוויית מגורים יוקרתית עם אווירה ביתית חמה — מושלם למשפחות, זוגות וחברים. הזמינו עכשיו!
+
+### שירותים
+https://example.com/services
+ממרפסת נוף עוצרת נשימה ועד אירועים פרטיים אינטימיים — השירותים שלנו בוילת VIEW HOUSE מעוצבים במיוחד לזוגות, משפחות וחגיגות בלתי נשכחות בצפון. גלו הכל!
+
+### אודות
+https://example.com/about
+VIEW HOUSE נולדה מאהבה לכנרת ולאירוח אמיתי. גלו מי אנחנו, מה מניע אותנו ולמה אלפי אורחים בוחרים בנו כיעד הנופש האולטימטיבי בטבריה ובצפון. הכירו אותנו!
+
+### צור קשר
+https://example.com/contact
+רוצים לשמור מקום בוילת הנופש היוקרתית ביותר בטבריה? צרו איתנו קשר עוד היום ונבנה יחד את החופשה המושלמת שלכם מול הכנרת. אנחנו כאן בשבילכם — פנו עכשיו!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `phone` (tel, required)
+  - `email` (email, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About VIEW HOUSE
+A luxury vacation villa located in Tiberias, directly overlooking the full panoramic length of the Sea of Galilee (Kinneret). The property offers an immersive experience that blends indoor elegance with breathtaking outdoor scenery, with a large salon window that immediately frames the lake view upon entry. The brand identity revolves around warmth, freedom, and a 'luxury-yet-homey' feeling — guests should feel they've arrived at a premium retreat that still feels personal and welcoming. The villa caters to families with children, couples, and friend groups for leisure stays, as well as small private events like bachelor/bachelorette parties and birthday celebrations.
+
+## Target Audience
+- משפחות עם ילדים, זוגות, קבוצות חברים, אירועים קטנים כמו מסיבות רווקים/רווקות וימי הולדת
+- משפחות עם ילדים
+- זוגות המחפשים חופשה רומנטית
+- קבוצות חברים חוגגות
+
+## Industry
+תיירות ואירוח
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
